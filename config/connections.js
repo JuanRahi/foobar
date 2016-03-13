@@ -68,7 +68,7 @@ module.exports.connections = {
   mongoLab: {
     adapter: 'sails-mongo',
     url: 'mongodb://juan:ruralsails@ds011439.mlab.com:11439/rural'
-  }
+  },
 
   /***************************************************************************
   *                                                                          *
