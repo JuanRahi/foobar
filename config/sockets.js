@@ -44,11 +44,11 @@ module.exports.sockets = {
   // -OR-
   //
 
-  // adapter: 'socket.io-redis',
-  // host: '127.0.0.1',
-  // port: 6379,
-  // db: 0,
-  // pass: '<redis auth password>',
+  adapter: 'socket.io-redis',
+  host: 'telescopefish.redistogo.com',
+  port: 9171,
+  user: 'redistogo',
+  pass: 'f3b63216f7dd6cc9ddb060d300ca2012'
 
 
 
